@@ -1,5 +1,10 @@
 # Fullstack PDF App with FastAPI and Next.js
 
+For quick output of the demo:
+
+<p align="center">
+    <img src="https://github.com/hirenhk15/langchain-plus-pdf-app/tree/master/frontend/pdf-app/public/app_demo.png" />
+</p>
 
 ### 1. Run the backend:
 - Navigate to /backend and run following command in the terminal:
