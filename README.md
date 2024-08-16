@@ -3,7 +3,7 @@
 For quick output of the demo:
 
 <p align="center">
-    <img src="https://github.com/hirenhk15/langchain-plus-pdf-app/tree/master/frontend/pdf-app/public/app_demo.png" />
+    <img src="https://raw.githubusercontent.com/hirenhk15/langchain-plus-pdf-app/master/frontend/pdf-app/public/app_demo.png" alt="Demo" width="500">
 </p>
 
 ### 1. Run the backend:
